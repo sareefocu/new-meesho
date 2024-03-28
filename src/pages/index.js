@@ -1433,7 +1433,7 @@ function Home() {
                         data-index={0}
                         alt=""
                         onClick={() => {
-                          const updatedProducts = JSON.parse(localStorage.getItem("d1")).filter((ela) => ela._id !== el._id);
+                          const updatedProducts = JSON.parse(localStorage.getItem("d1")).filter((ela) => ela.id !== el.id);
                           localStorage.setItem("d1", JSON.stringify(updatedProducts)); setdata133(updatedProducts)
                           setdata133(updatedProducts)
 
@@ -1456,7 +1456,7 @@ function Home() {
                           const existingProductsJSON = localStorage.getItem("d1");
                           const updatedProducts = JSON.parse(localStorage.getItem("d1")).map((ela) => {
                             if (ela.quantity > 0) {
-                              if (ela._id === el._id) {
+                              if (ela.id === el._id) {
                                 ela.quantity -= 1; // Increment quantity
                               }
                               return ela;
@@ -1477,7 +1477,7 @@ function Home() {
                         <span className="plus" data-index={0} onClick={() => {
                           const existingProductsJSON = localStorage.getItem("d1");
                           const updatedProducts = JSON.parse(existingProductsJSON).map((ela) => {
-                            if (ela._id === el._id) {
+                            if (ela.id === el._id) {
                               ela.quantity += 1; // Increment quantity
                             }
                             return ela;

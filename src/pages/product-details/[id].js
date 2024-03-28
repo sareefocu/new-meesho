@@ -589,6 +589,212 @@ function Productdetails() {
                                     >
                                         Products For You
                                     </h4>
+                                    <div className="storage-div mt-3">
+                                    <div
+                                        className="sc-kDvujY iGlGaV SizeSelectionstyled__SizeCard-sc-155vsje-0 eeldyg SizeSelectionstyled__SizeCard-sc-155vsje-0 eeldyg"
+                                        color="white"
+                                    >
+                                        <h6
+                                            fontSize="17px"
+                                            fontWeight="bold"
+                                            color="greyBase"
+                                            className="sc-gswNZR hmRtgo SizeSelectionstyled__Headline6Styled-sc-155vsje-1 keaMtN SizeSelectionstyled__Headline6Styled-sc-155vsje-1 keaMtN"
+                                        >
+                                            Select Size
+                                        </h6>
+                                        <div className="sc-kImNAt hnbNOX SizeSelectionstyled__SizeSelectorChipsStyled-sc-155vsje-2 dEkkqK">
+                                            <span
+                                                className={`sc-eKJbhj dqLmGj dress-size ${size === 1 && 'active'}`} onClick={() => {
+                                                    setsize(1)
+                                                }}
+                                            >
+                                                <span
+                                                    fontSize="15px"
+                                                    fontWeight="demi"
+                                                    color="greyBase"
+                                                    className="sc-gswNZR iwPwcX"
+                                                >
+                                                    S
+                                                </span>
+                                            </span>
+                                            <span
+                                                className={`sc-eKJbhj dqLmGj dress-size ${size === 2 && 'active'}`}
+                                                onclick="manage_size_click($(this))" onClick={() => {
+                                                    setsize(2)
+                                                }}
+                                            >
+                                                <span
+                                                    fontSize="15px"
+                                                    fontWeight="demi"
+                                                    color="greyBase"
+                                                    className="sc-gswNZR iwPwcX"
+                                                >
+                                                    M
+                                                </span>
+                                            </span>
+                                            <span
+                                                className={`sc-eKJbhj dqLmGj dress-size ${size === 3 && 'active'}`}
+                                                onclick="manage_size_click($(this))" onClick={() => {
+                                                    setsize(3)
+                                                }}
+                                            >
+                                                <span
+                                                    fontSize="15px"
+                                                    fontWeight="demi"
+                                                    color="greyBase"
+                                                    className="sc-gswNZR iwPwcX"
+                                                >
+                                                    L
+                                                </span>
+                                            </span>
+                                            <span
+                                                className={`sc-eKJbhj dqLmGj dress-size ${size === 4 && 'active'}`}
+                                                onclick="manage_size_click($(this))" onClick={() => {
+                                                    setsize(4)
+                                                }}
+                                            >
+                                                <span
+                                                    fontSize="15px"
+                                                    fontWeight="demi"
+                                                    color="greyBase"
+                                                    className="sc-gswNZR iwPwcX"
+                                                >
+                                                    XL
+                                                </span>
+                                            </span>
+                                            <span
+                                                className={`sc-eKJbhj dqLmGj dress-size ${size === 5 && 'active'}`}
+                                                onclick="manage_size_click($(this))" onClick={() => {
+                                                    setsize(5)
+                                                }}
+                                            >
+                                                <span
+                                                    fontSize="15px"
+                                                    fontWeight="demi"
+                                                    color="greyBase"
+                                                    className="sc-gswNZR iwPwcX"
+                                                >
+                                                    XXL
+                                                </span>
+                                            </span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div
+                                    className="container-fluid product-detail mb-4 card"
+                                    style={{ marginTop: 3, padding: "20px 16px" }}
+                                >
+                                    <h6
+                                        fontSize="17px"
+                                        fontWeight="bold"
+                                        color="greyBase"
+                                        className="sc-hBxehG jvhzrN"
+                                    >
+                                        Product Details
+                                    </h6>
+                                    <div className="product-details">
+                                        <div style={{ overflow: "hidden" }}>
+                                            <style
+                                                type="text/css"
+                                                dangerouslySetInnerHTML={{
+                                                    __html:
+                                                        'body{font-family:-apple-system,BlinkMacSystemFont,\'Segoe UI\',Roboto,Oxygen,Ubuntu,Cantarell,\'Open Sans\',\'Helvetica Neue\',sans-serif;line-height:1.4;margin:1rem}table{border-collapse:collapse}table:not([cellpadding]) td,table:not([cellpadding]) th{padding:.4rem}table:not([border="0"]):not([style*=border-width]) td,table:not([border="0"]):not([style*=border-width]) th{border-width:1px}table:not([border="0"]):not([style*=border-style]) td,table:not([border="0"]):not([style*=border-style]) th{border-style:solid}table:not([border="0"]):not([style*=border-color]) td,table:not([border="0"]):not([style*=border-color]) th{border-color:#ccc}iframe,video{max-width:100%;outline:none}img{height:auto;max-width:100%}figure{display:table;margin:1rem auto}figure figcaption{color:#999;display:block;margin-top:.25rem;text-align:center}hr{border-color:#ccc;border-style:solid;border-width:1px 0 0 0}code{background-color:#e8e8e8;border-radius:3px;padding:.1rem .2rem}.mce-content-body:not([dir=rtl]) blockquote{border-left:2px solid #ccc;margin-left:1.5rem;padding-left:1rem}.mce-content-body[dir=rtl] blockquote{border-right:2px solid #ccc;margin-right:1.5rem;padding-right:1rem}@media screen and (max-width: 750px){table{width: 100%}}'
+                                                }}
+                                            />
+                                            <div
+                                                className="mce-content-body aside hasColor"
+                                                style={{ wordBreak: "break-word" }}
+                                            >
+                                                <style
+                                                    dangerouslySetInnerHTML={{
+                                                        __html:
+                                                            "\n      .mce-content-body img {\n        opacity: 0;\n      }\n      .mce-content-body img[srcset],\n      .mce-content-body img[src] {\n        opacity: 1;\n      }\n      .mce-content-body.aside table{\n        min-width: 100% !important;\n      }\n      @media (max-width: 749.98px){\n        .mce-content-body table{\n          min-width: 100% !important;\n        }\n        .mce-content-body .table-wraper-fix > table > tbody > tr td,\n        .mce-content-body .table-wraper-fix > table > tbody > tr th{\n          min-width: 54px;\n        }\n      }\n\n      .mce-content-body .table-wraper-fix{\n        padding-bottom: 1px;\n        padding-right: 1px;\n      }\n\n      @media (min-width: 749.98px){\n        .mce-content-body .table-wraper-fix > table > tbody > tr td,\n        .mce-content-body .table-wraper-fix > table > tbody > tr th{\n          min-width: 80px !important;\n          box-sizing: border-box !important;\n        }\n        .mce-content-body.bottom .table-wraper-fix > table > tbody > tr td,\n        .mce-content-body.bottom .table-wraper-fix > table > tbody > tr th{\n          min-width: 120px !important;\n        }\n      }\n\n      .table-wraper-fix > table > tbody > tr td,\n      .table-wraper-fix > table > tbody > tr th {\n        padding: 8px;\n      }\n    "
+                                                    }}
+                                                />
+                                                <p
+                                                    className="product-extra-note fw-3 fs-13 mb-0 font-italic text-justify"
+                                                    data-mce-fragment={1}
+                                                >
+                                                    <span data-mce-fragment={1}>
+                                                        Light, bright, and full of life, this suit set will make a
+                                                        delightful addition to your wardrobe. Tailored with flowy
+                                                        silhouettes with classic golden prints, it is spruced up
+                                                        with a trendy fit.
+                                                    </span>
+                                                </p>
+                                                <p
+                                                    className="product-extra-note fw-3 fs-13 mb-0 font-italic text-justify"
+                                                    data-mce-fragment={1}
+                                                >
+                                                    Model height: 5.4ft
+                                                </p>
+                                                <p data-mce-fragment={1}>
+                                                    Fabric:<span data-mce-fragment={1}>&nbsp;Cotton</span>
+                                                </p>
+                                                <p data-mce-fragment={1}>
+                                                    <img
+                                                        className="lozad lazyloaded"
+                                                        data-src="https://img.myshopline.com/image/store/2006524221/1682322632613/Handmade-pico.png?w=16&h=16"
+                                                        alt=""
+                                                        data-mce-src="https://img.myshopline.com/image/store/2006524221/1682322632613/Handmade-pico.png?w=16&h=16"
+                                                        data-mce-fragment={1}
+                                                        referrerPolicy="same-origin"
+                                                        decoding="async"
+                                                        src="https://img.myshopline.com/image/store/2006524221/1682322632613/Handmade-pico.png?w=16&h=16"
+                                                        data-loaded="true"
+                                                    />
+                                                    &nbsp;Handcrafted in India
+                                                </p>
+                                                <p data-mce-fragment={1}>
+                                                    Size : Refer to size chart. Model is wearing size Small.
+                                                </p>
+                                                <p data-mce-fragment={1}>
+                                                    <strong data-mce-fragment={1}>DISCLAIMER</strong>:
+                                                    <br data-mce-fragment={1} />
+                                                </p>
+                                                <p
+                                                    className="product-extra-note fw-3 fs-13 mb-0 font-italic text-justify"
+                                                    data-mce-fragment={1}
+                                                >
+                                                    Natural-dyed colors might bleed during the first few washes
+                                                    or rub against the skin &amp; other light-colored garments.
+                                                    In the artful process of hand block-printing, embroidery
+                                                    work and stitching, variations are likely to come into
+                                                    existence. These irregularities are the hallmark of all
+                                                    handmade products and give each style a unique identity.
+                                                </p>
+                                                <p
+                                                    className="fs-13 pt-3 font-italic fw-3 text-justify"
+                                                    data-mce-fragment={1}
+                                                >
+                                                    Like most brands, our products are photographed
+                                                    professionally under controlled lighting. Colours tend to be
+                                                    perceived differently depending on factors such as shot
+                                                    angles, lighting, background tones and color temperatures.
+                                                    As a result, prints and colors may vary 10% -12%.
+                                                    Nevertheless, we strive to match the tones as close to the
+                                                    original product colors as possible.
+                                                </p>
+                                                <p
+                                                    className="fs-13 pt-3 font-italic fw-3 text-justify"
+                                                    data-mce-fragment={1}
+                                                >
+                                                    <img
+                                                        className="lozad lazyloaded"
+                                                        data-src="https://img.myshopline.com/image/store/2006524221/1682322632613/size-chart-480x480-010b75a9-9edc-4035-8ab8-a16dceb1b759-480x480.jpg?w=480&h=480"
+                                                        alt=""
+                                                        data-mce-src="https://img.myshopline.com/image/store/2006524221/1682322632613/size-chart-480x480-010b75a9-9edc-4035-8ab8-a16dceb1b759-480x480.jpg?w=480&h=480"
+                                                        data-mce-fragment={1}
+                                                        referrerPolicy="same-origin"
+                                                        decoding="async"
+                                                        src="https://img.myshopline.com/image/store/2006524221/1682322632613/size-chart-480x480-010b75a9-9edc-4035-8ab8-a16dceb1b759-480x480.jpg?w=480&h=480"
+                                                        data-loaded="true"
+                                                    />
+                                                </p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                     <div className="product_loader" style={{ display: "none" }} />
                                 </div><div
                                     className="product-list d-flex"
@@ -732,9 +938,7 @@ function Productdetails() {
                                             const existingProductsJSON = localStorage.getItem("d1");
                                             const existingProducts = existingProductsJSON ? JSON.parse(existingProductsJSON) : [];
 
-                                            // Step 2: Check if the product with the same name already exists
-                                            const existingProductIndex = existingProducts.findIndex(product => product.Title === data1.Title);
-
+                                            const existingProductIndex = existingProducts.findIndex(product => product.id === data1.id);
                                             if (existingProductIndex !== -1) {
                                                 // If the product exists, update its quantity
                                                 existingProducts[existingProductIndex].quantity += 1;
@@ -816,7 +1020,7 @@ function Productdetails() {
                                             const existingProducts = existingProductsJSON ? JSON.parse(existingProductsJSON) : [];
 
                                             // Step 2: Check if the product with the same name already exists
-                                            const existingProductIndex = existingProducts.findIndex(product => product.Title === data1.Title);
+                                            const existingProductIndex = existingProducts.findIndex(product => product.id === data1.id);
 
                                             if (existingProductIndex !== -1) {
                                                 // If the product exists, update its quantity
@@ -904,7 +1108,7 @@ function Productdetails() {
                                                 data-index={0}
                                                 alt=""
                                                 onClick={() => {
-                                                    const updatedProducts = JSON.parse(localStorage.getItem("d1")).filter((ela) => ela._id !== el._id);
+                                                    const updatedProducts = JSON.parse(localStorage.getItem("d1")).filter((ela) => ela.id !== el.id);
                                                     localStorage.setItem("d1", JSON.stringify(updatedProducts)); setdata133(updatedProducts)
                                                     setdata133(updatedProducts)
 
@@ -918,6 +1122,9 @@ function Productdetails() {
                                             <p className="cart-product-price">₹{el.price}</p>&nbsp;
                                             <span className="cart-product-mrp">₹{el.cancelprice}</span>
                                         </div>
+                                        <h5>
+                                          size: <b>{el.size}</b>
+                                        </h5>
                                         <div className="cart-product-description">
                                             <span className="sc-lbxAil evmCQI" />
                                             <div className="cart-qty-wrapper">
@@ -926,7 +1133,7 @@ function Productdetails() {
                                                     const existingProductsJSON = localStorage.getItem("d1");
                                                     const updatedProducts = JSON.parse(localStorage.getItem("d1")).map((ela) => {
                                                         if (ela.quantity > 0) {
-                                                            if (ela._id === el._id) {
+                                                            if (ela.id === el.id) {
                                                                 ela.quantity -= 1; // Increment quantity
                                                             }
                                                             return ela;
@@ -947,7 +1154,7 @@ function Productdetails() {
                                                 <span className="plus" data-index={0} onClick={() => {
                                                     const existingProductsJSON = localStorage.getItem("d1");
                                                     const updatedProducts = JSON.parse(existingProductsJSON).map((ela) => {
-                                                        if (ela._id === el._id) {
+                                                        if (ela.id === el.id) {
                                                             ela.quantity += 1; // Increment quantity
                                                         }
                                                         return ela;
