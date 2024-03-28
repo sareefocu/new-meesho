@@ -61,7 +61,7 @@ function Home() {
       "id": 902,
       "title": "E-COSMOS Food Chopper 900ml, Steel Large Manual Hand-Press Vegetable Chopper Mixer Cutter to Cut Onion, Salad, Tomato, Potato (Pack of 1) 900ml",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "299",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154433294.png?v=1710322019",
       "slider": [
@@ -74,26 +74,26 @@ function Home() {
       "id": 903,
       "title": "Pigeon by Stovekraft Ultra Premium Handy Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (Green, 400 ml, 12420)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "299",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006",
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006"
       ],
       "price": "99",
-      "highlight": "/static/media/3a.6db61210999d776827d.png"
+      "highlight": "/static/media/3a.6db612101899d776827d.png"
     },
     {
       "id": 904,
       "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars 2 Blades)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "999",
+      "cancelprice": "199",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437",
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437"
       ],
-      "price": "299",
+      "price": "99",
       "highlight": "/static/media/4a.21f71b30006772fcf1b5.png"
     },
     {
@@ -119,8 +119,8 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183926357.png?v=1710322577"
       ],
-      "price": "139",
-      "highlight": "/static/media/6a.4a3c469902a49859434.png"
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
     },
     {
       "id": 907,
@@ -165,13 +165,13 @@ function Home() {
       "id": 0.1,
       "title": "GOPI Kitchen Tools For Home Kitchen Items 1000 ML, Color Black",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "299",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183724212.png?v=1710322564",
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183724212.png?v=1710322564"
       ],
-      "price": "99",
+      "price": "189",
       "highlight": "/static/media/aa3.3d21b0a9edaa5d0434d9.png",
       "rating": "/static/media/aa4.4c80261e904e1a4dd26a.png"
     },
@@ -213,7 +213,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183630484.png?v=1710322554"
       ],
-      "price": "299",
+      "price": "99",
       "highlight": "/static/media/b1.2115075724a98aeb164f.png",
       "rating": "/static/media/b2.c8ae0d45435309951309.png"
     },
@@ -221,7 +221,7 @@ function Home() {
       "id": 3,
       "title": "Spice Set Plastic  (1 Piece)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "99",
+      "cancelprice": "229",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183559536.png?v=1710322547",
       "slider": [
@@ -236,7 +236,7 @@ function Home() {
       "id": 4,
       "title": "OTIZ 3000 ml Cooking Oil Dispenser Set  (Pack of 3)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "99",
+      "cancelprice": "229",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183546786.png?v=1710322544",
       "slider": [
@@ -250,13 +250,13 @@ function Home() {
       "id": 5,
       "title": "3D METRO SUPER STORE Plastic Fridge Container - 1800 ml  (Pack of 5, Clear)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "99",
+      "cancelprice": "249",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183535780.png?v=1710322541",
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183535780.png?v=1710322541"
       ],
-      "price": "99",
+      "price": "129",
       "highlight": "/static/media/e1.b3654dc5cd45420a37f8.png",
       "rating": "/static/media/e2.9e27b045172ea6584f4a.png"
     },
@@ -270,7 +270,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183450482.png?v=1710322537"
       ],
-      "price": "99",
+      "price": "189",
       "highlight": "/static/media/f1.7e927282f77be0d6b251.png",
       "rating": "/static/media/f2.9d2a1a4a395fcdbf3709.png"
     },
@@ -284,7 +284,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183439396.png?v=1710322534"
       ],
-      "price": "99",
+      "price": "249",
       "highlight": "/static/media/g1.6e411257753d9cb2f4f9.png",
       "rating": "/static/media/g2.696b82cdd461660be9dd.png"
     },
@@ -448,9 +448,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=171032997",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=1710322497",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=171032997"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=1710322497"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -462,9 +462,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -476,9 +476,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -490,17 +490,446 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=171032990",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=1710322490",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=171032990"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=1710322490"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
+    }, {
+      "id": 902,
+      "title": "E-COSMOS Food Chopper 900ml, Steel Large Manual Hand-Press Vegetable Chopper Mixer Cutter to Cut Onion, Salad, Tomato, Potato (Pack of 1) 900ml",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "99",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154433294.png?v=1710322019",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154433294.png?v=1710322019"
+      ],
+      "price": "99",
+      "highlight": "/static/media/2a.e76679b25d2abdb4ff25.png"
+    },
+    {
+      "id": 903,
+      "title": "Pigeon by Stovekraft Ultra Premium Handy Chopper with 3 Blades for Effortlessly Chopping Vegetables and Fruits for Your Kitchen (Green, 400 ml, 12420)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "99",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006"
+      ],
+      "price": "99",
+      "highlight": "/static/media/3a.6db612101899d776827d.png"
+    },
+    {
+      "id": 904,
+      "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars 2 Blades)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "199",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437"
+      ],
+      "price": "99",
+      "highlight": "/static/media/4a.21f71b30006772fcf1b5.png"
+    },
+    {
+      "id": 905,
+      "title": "Milton Pro Lunch Tiffin (3 Microwave Safe Inner Steel Containers, 180/320/450 ml; 1 Plastic Chutney Dabba,100 ml; 1 Aqua Steel Bottle, 750 ml, Steel Spoon and Fork) With Insulated Fabric Jacket, Black",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "849",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437"
+      ],
+      "price": "99",
+      "highlight": "/static/media/5a.bccdbe8f75b87759afb4.png"
+    },
+    {
+      "id": 906,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183926357.png?v=1710322577",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183926357.png?v=1710322577"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12200,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_2023122418305999.png?v=1710322487",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_2023122418305999.png?v=1710322487"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12201,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_2023122418305999.png?v=1710322487",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_2023122418305999.png?v=1710322487"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12202,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183049771.png?v=1710322484",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183049771.png?v=1710322484"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12203,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183039409.png?v=1710322481",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183039409.png?v=1710322481"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12204,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183027409.png?v=1710322478",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183027409.png?v=1710322478"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },
+    {
+      "id": 12205,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183015973_bf860b85-f6fd-4176-a5d9-aed8a2b31bae.png?v=1710322474",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183015973_bf860b85-f6fd-4176-a5d9-aed8a2b31bae.png?v=1710322474"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12206,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183015973.png?v=1710322471",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183015973.png?v=1710322471"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12207,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182948387.png?v=1710322468",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182948387.png?v=1710322468"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12208,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182937884.png?v=1710322465",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182937884.png?v=1710322465"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12209,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182914733.png?v=1710322460",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182914733.png?v=1710322460"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12210,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182719560.png?v=1710322456",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182719560.png?v=1710322456"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12211,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182656575.png?v=1710322453",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182656575.png?v=1710322453"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12212,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182639257.png?v=1710322449",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182639257.png?v=1710322449"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12213,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182628449.png?v=1710322446",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182628449.png?v=1710322446"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12214,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182618519.png?v=1710322443",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182618519.png?v=1710322443"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12215,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182552373.png?v=1710322440",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182552373.png?v=1710322440"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12216,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182447669.png?v=1710322434",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182447669.png?v=1710322434"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12216,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182425274.png?v=1710322429",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182425274.png?v=1710322429"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12217,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182414303.png?v=1710322425",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182414303.png?v=1710322425"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12218,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182358610.png?v=1710322421",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182358610.png?v=1710322421"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12219,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182346397.png?v=1710322417",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182346397.png?v=1710322417"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12220,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182336392.png?v=1710322414",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182336392.png?v=1710322414"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12221,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182325527.png?v=1710322410",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182325527.png?v=1710322410"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12222,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182314611.png?v=1710322407",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182314611.png?v=1710322407"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12223,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182252269.png?v=1710322404",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182252269.png?v=1710322404"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12224,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182239752.png?v=1710322401",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182239752.png?v=1710322401"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12225,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182227893.png?v=1710322398",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182227893.png?v=1710322398"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12226,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182217794.png?v=1710322395",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182217794.png?v=1710322395"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12227,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182155757.png?v=1710322392",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182155757.png?v=1710322392"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+    },{
+      "id": 12228,
+      "title": "Pigeon by Stovekraft Amaze Plus Electric Kettle (14289) with Stainless Steel Body, 1.5 litre, used for boiling Water, making tea and coffee, instant noodles, soup etc. (Silver)",
+      "title2": "Kurti Combo Set's Of 2",
+      "cancelprice": "599",
+      "dicPersent": "95.01% Off",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182143171.png?v=1710322389",
+      "slider": [
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182143171.png?v=1710322389"
+      ],
+      "price": "99",
+      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
     }
   ]
-  
- );
+  );
   const [products1, setProducts1] = useState({ pixelId: "" });
 
   useEffect(() => {
