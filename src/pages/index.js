@@ -54,7 +54,7 @@ function Home() {
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231016121644494.png?v=1710321974",
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231016121644494.png?v=1710321974"
       ],
-      "price": "149",
+      "price": "99",
       "highlight": "/static/media/1a.8bafb9eb4a34d7fb0a6c.png"
     },
     {
@@ -145,7 +145,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183827183.png?v=1710322571"
       ],
-      "price": "149",
+      "price": "99",
       "highlight": "/static/media/8a.74d4e9a1a3c0adbeed60.png"
     },
     {
@@ -185,7 +185,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183712567.png?v=1710322560"
       ],
-      "price": "149",
+      "price": "99",
       "highlight": "/static/media/bb3.78558b8165beb9bc8550.png",
       "rating": "/static/media/bb2.0824181503dcff93e1c2.png"
     },
@@ -228,7 +228,7 @@ function Home() {
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183559536.png?v=1710322547",
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183559536.png?v=1710322547"
       ],
-      "price": "149",
+      "price": "99",
       "highlight": "/static/media/c1.c81b6ed480853c3bf37a.png",
       "rating": "/static/media/c2.cb5b8308284aebe3da24.png"
     },
@@ -242,7 +242,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183546786.png?v=1710322544"
       ],
-      "price": "149",
+      "price": "99",
       "highlight": "/static/media/d1.2793d9b1f383b3ba6377.png",
       "rating": "/static/media/d2.9ccda78e1018734b9302.png"
     },
