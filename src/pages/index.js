@@ -81,13 +81,13 @@ function Home() {
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006"
       ],
       "price": "99",
-      "highlight": "/static/media/3a.6db612101899d776827d.png"
+      "highlight": "/static/media/3a.6db61210999d776827d.png"
     },
     {
       "id": 904,
       "title": "NutriPro Juicer Mixer Grinder - Smoothie Maker - 500 Watts (3 Jars 2 Blades)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "1299",
+      "cancelprice": "999",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437",
       "slider": [
@@ -120,7 +120,7 @@ function Home() {
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183926357.png?v=1710322577"
       ],
       "price": "139",
-      "highlight": "/static/media/6a.4a3c4624902a49859434.png"
+      "highlight": "/static/media/6a.4a3c469902a49859434.png"
     },
     {
       "id": 907,
@@ -158,7 +158,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183810531.png?v=1710322567"
       ],
-      "price": "169",
+      "price": "99",
       "highlight": "/static/media/9a.13c6f7a44348a6c374ca.png"
     },
     {
@@ -171,7 +171,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183724212.png?v=1710322564"
       ],
-      "price": "189",
+      "price": "99",
       "highlight": "/static/media/aa3.3d21b0a9edaa5d0434d9.png",
       "rating": "/static/media/aa4.4c80261e904e1a4dd26a.png"
     },
@@ -221,7 +221,7 @@ function Home() {
       "id": 3,
       "title": "Spice Set Plastic  (1 Piece)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "229",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183559536.png?v=1710322547",
       "slider": [
@@ -236,7 +236,7 @@ function Home() {
       "id": 4,
       "title": "OTIZ 3000 ml Cooking Oil Dispenser Set  (Pack of 3)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "229",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183546786.png?v=1710322544",
       "slider": [
@@ -250,13 +250,13 @@ function Home() {
       "id": 5,
       "title": "3D METRO SUPER STORE Plastic Fridge Container - 1800 ml  (Pack of 5, Clear)",
       "title2": "Kurti Combo Set's Of 2",
-      "cancelprice": "249",
+      "cancelprice": "99",
       "dicPersent": "95.01% Off",
       "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183535780.png?v=1710322541",
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183535780.png?v=1710322541"
       ],
-      "price": "129",
+      "price": "99",
       "highlight": "/static/media/e1.b3654dc5cd45420a37f8.png",
       "rating": "/static/media/e2.9e27b045172ea6584f4a.png"
     },
@@ -270,7 +270,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183450482.png?v=1710322537"
       ],
-      "price": "189",
+      "price": "99",
       "highlight": "/static/media/f1.7e927282f77be0d6b251.png",
       "rating": "/static/media/f2.9d2a1a4a395fcdbf3709.png"
     },
@@ -284,7 +284,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183439396.png?v=1710322534"
       ],
-      "price": "249",
+      "price": "99",
       "highlight": "/static/media/g1.6e411257753d9cb2f4f9.png",
       "rating": "/static/media/g2.696b82cdd461660be9dd.png"
     },
@@ -312,7 +312,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183347447.png?v=1710322528"
       ],
-      "price": "169",
+      "price": "99",
       "highlight": "/static/media/i1.1a048a00827454762fe9.png",
       "rating": "/static/media/i2.de51a83758880b4113ae.png"
     },
@@ -448,9 +448,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=1710322497",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=171032997",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=1710322497"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=171032997"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -462,9 +462,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -476,9 +476,9 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=171032993"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
@@ -490,16 +490,17 @@ function Home() {
       "title2": "Kurti Combo Set's Of 2",
       "cancelprice": "184",
       "dicPersent": "95.01% Off",
-      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=1710322490",
+      "image": "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=171032990",
       "slider": [
-        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=1710322490"
+        "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=171032990"
       ],
       "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     }
   ]
-  );
+  
+ );
   const [products1, setProducts1] = useState({ pixelId: "" });
 
   useEffect(() => {
