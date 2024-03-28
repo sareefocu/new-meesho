@@ -67,7 +67,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154433294.png?v=1710322019"
       ],
-      "price": "199",
+      "price": "99",
       "highlight": "/static/media/2a.e76679b25d2abdb4ff25.png"
     },
     {
@@ -80,7 +80,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231220154323351.png?v=1710322006"
       ],
-      "price": "179",
+      "price": "99",
       "highlight": "/static/media/3a.6db612101899d776827d.png"
     },
     {
@@ -106,7 +106,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224182531736.png?v=1710322437"
       ],
-      "price": "199",
+      "price": "99",
       "highlight": "/static/media/5a.bccdbe8f75b87759afb4.png"
     },
     {
@@ -132,7 +132,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183838782.png?v=1710322574"
       ],
-      "price": "199",
+      "price": "99",
       "highlight": "/static/media/7a.0a2fbf617f1f307359de.png"
     },
     {
@@ -199,7 +199,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183651178.png?v=1710322557"
       ],
-      "price": "199",
+      "price": "99",
       "highlight": "/static/media/a1.6001977a89fd9f467f63.png",
       "rating": "/static/media/a2.adec00952e230de43b6e.png"
     },
@@ -298,7 +298,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183427518.png?v=1710322531"
       ],
-      "price": "179",
+      "price": "99",
       "highlight": "/static/media/h1.b53f9e69b6accd6c65b4.png",
       "rating": "/static/media/h2.8d4ba5ec0b25a376e064.png"
     },
@@ -326,7 +326,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183337824.png?v=1710322525"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -340,7 +340,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183325526.png?v=1710322520"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -354,7 +354,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183325526.png?v=1710322520"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -368,7 +368,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183313362.png?v=1710322516"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -382,7 +382,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183313362.png?v=1710322516"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -396,7 +396,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183250159.png?v=1710322512"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -410,7 +410,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183215148.png?v=1710322503"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -424,7 +424,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183152482.png?v=1710322500"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -438,7 +438,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183152482.png?v=1710322500"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -452,7 +452,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183142489.png?v=1710322497"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -466,7 +466,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -480,7 +480,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183130698.png?v=1710322493"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     },
@@ -494,7 +494,7 @@ function Home() {
       "slider": [
         "https://cdn.shopify.com/s/files/1/0864/0204/0081/products/photogrid.photocollagemaker.photoeditor.squarepic_20231224183119543.png?v=1710322490"
       ],
-      "price": "119",
+      "price": "99",
       "highlight": "/static/media/i1.0ce62a7af8802ddd12db.png",
       "rating": "/static/media/i2.fc17f0080dd4dc459114.png"
     }
